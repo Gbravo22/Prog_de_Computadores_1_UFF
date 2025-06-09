@@ -1,0 +1,12 @@
+Questão 1:
+
+a)Verdadeiro
+b)Verdadeiro(Apenas para python, linguagens como Java, C não permitem essa troca)
+c)Verdadeiro
+d)Falso(Uma variável criada dentro de uma função(escopo local) não pode ser acessada em qualquer lugar
+e)Falso(variáveis com o mesmo nome em escopos diferentes permitem valores diferentes)
+f)Falso
+g)Verdadeiro
+h)Falso(Eles não são nem executados pelo programa)
+i)Falso
+j)Falso
