@@ -3,7 +3,6 @@ def ler_valores_compras():
     lista_de_compras = list(map(int, entrada_str.split(',')))
     return lista_de_compras
 def calcular_locacoes_gratis(compras):
-    """Recebe uma lista de compras e retorna uma lista com o número de locações grátis para cada uma."""
     locacoes_calculadas = []
     for valor_compra in compras:
         num_locacoes = valor_compra // 10
