@@ -3,7 +3,7 @@ palavra = str(input())
 def eh_palindrome(palavra, verificar = True, inicio = 0, fim = len(palavra) - 1):
     if len(palavra) == 0:
         return True
-    if inicio == fim:
+    if inicio >= fim:
         return verificar
     else:
         if palavra[inicio] == palavra[fim]:
