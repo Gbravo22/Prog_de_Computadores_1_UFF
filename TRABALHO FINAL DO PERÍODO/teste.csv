@@ -1,0 +1,16 @@
+id venda,data,categoria,preço unitário,quantidade,valor total,id vendedor
+01,2025-07-07,Short Jeans,R$96.08,4,R$384.32,0002
+02,2025-07-07,Bermuda de elastano,R$98.81,4,R$395.24,0003
+03,2025-07-07,Regata,R$27.1,1,R$27.1,0002
+04,2025-07-08,Camiseta básica,R$58.5,2,R$117.0,0001
+05,2025-07-08,Regata,R$37.79,5,R$188.95,0001
+06,2025-07-08,Camiseta básica,R$36.36,3,R$109.08,0003
+07,2025-07-09,Bermuda de moletom,R$65.59,1,R$65.59,0003
+08,2025-07-09,Casaco de couro,R$332.96,2,R$665.92,0002
+09,2025-07-09,Casaco de couro,R$289.04,4,R$1156.16,0002
+10,2025-07-09,Bermuda de moletom,R$74.21,5,R$371.05,0001
+11,2025-07-10,Casaco de moletom,R$210.34,2,R$420.68,0002
+12,2025-07-10,Bermuda de moletom,R$68.31,3,R$204.93,0002
+13,2025-07-10,Regata,R$34.2,3,R$102.6,0001
+14,2025-07-11,Casaco de moletom,R$193.41,3,R$580.23,0002
+15,2025-07-11,Regata,R$43.17,1,R$43.17,0001
